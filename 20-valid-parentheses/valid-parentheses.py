@@ -23,7 +23,6 @@ if __name__ == "__main__":
     print(sol.isValid("()")) 
     print(sol.isValid("()[]{}"))
     print(sol.isValid("(]")) 
-    print(sol.isValid("([])")) 
     print(sol.isValid("([)]"))  
     print(sol.isValid("("))  
     print(sol.isValid(")")) 
