@@ -1,0 +1,1 @@
+<h2>minimum-cost-to-hire-k-workers Notes</h2><hr>[ Time taken: 40m 42s ]
